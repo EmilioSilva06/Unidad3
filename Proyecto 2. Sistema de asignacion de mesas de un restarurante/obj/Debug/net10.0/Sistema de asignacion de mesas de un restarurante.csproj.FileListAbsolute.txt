@@ -1,0 +1,15 @@
+C:\Users\diego\source\repos\Proyecto 2. Sistema de asignacion de mesas de un restarurante\bin\Debug\net10.0\Sistema de asignacion de mesas de un restarurante.exe
+C:\Users\diego\source\repos\Proyecto 2. Sistema de asignacion de mesas de un restarurante\bin\Debug\net10.0\Sistema de asignacion de mesas de un restarurante.deps.json
+C:\Users\diego\source\repos\Proyecto 2. Sistema de asignacion de mesas de un restarurante\bin\Debug\net10.0\Sistema de asignacion de mesas de un restarurante.runtimeconfig.json
+C:\Users\diego\source\repos\Proyecto 2. Sistema de asignacion de mesas de un restarurante\bin\Debug\net10.0\Sistema de asignacion de mesas de un restarurante.dll
+C:\Users\diego\source\repos\Proyecto 2. Sistema de asignacion de mesas de un restarurante\bin\Debug\net10.0\Sistema de asignacion de mesas de un restarurante.pdb
+C:\Users\diego\source\repos\Proyecto 2. Sistema de asignacion de mesas de un restarurante\obj\Debug\net10.0\Sistema de asignacion de mesas de un restarurante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\Proyecto 2. Sistema de asignacion de mesas de un restarurante\obj\Debug\net10.0\Sistema de asignacion de mesas de un restarurante.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\Proyecto 2. Sistema de asignacion de mesas de un restarurante\obj\Debug\net10.0\Sistema de asignacion de mesas de un restarurante.AssemblyInfo.cs
+C:\Users\diego\source\repos\Proyecto 2. Sistema de asignacion de mesas de un restarurante\obj\Debug\net10.0\Sistema de asignacion de mesas de un restarurante.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Proyecto 2. Sistema de asignacion de mesas de un restarurante\obj\Debug\net10.0\Sistema de asignacion de mesas de un restarurante.dll
+C:\Users\diego\source\repos\Proyecto 2. Sistema de asignacion de mesas de un restarurante\obj\Debug\net10.0\refint\Sistema de asignacion de mesas de un restarurante.dll
+C:\Users\diego\source\repos\Proyecto 2. Sistema de asignacion de mesas de un restarurante\obj\Debug\net10.0\Sistema de asignacion de mesas de un restarurante.pdb
+C:\Users\diego\source\repos\Proyecto 2. Sistema de asignacion de mesas de un restarurante\obj\Debug\net10.0\Sistema de asignacion de mesas de un restarurante.genruntimeconfig.cache
+C:\Users\diego\source\repos\Proyecto 2. Sistema de asignacion de mesas de un restarurante\obj\Debug\net10.0\ref\Sistema de asignacion de mesas de un restarurante.dll
+C:\Users\diego\source\repos\Proyecto 2. Sistema de asignacion de mesas de un restarurante\obj\Debug\net10.0\Sistema .929D413B.Up2Date

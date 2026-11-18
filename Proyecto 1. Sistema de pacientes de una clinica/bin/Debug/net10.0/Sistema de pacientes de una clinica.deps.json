@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Sistema de pacientes de una clinica/1.0.0": {
+        "runtime": {
+          "Sistema de pacientes de una clinica.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sistema de pacientes de una clinica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

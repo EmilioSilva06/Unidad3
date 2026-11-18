@@ -1,0 +1,16 @@
+C:\Users\diego\source\repos\Proyecto 1. Sistema de pacientes de una clinica\obj\Debug\net10.0\Sistema de pacientes de una clinica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\Proyecto 1. Sistema de pacientes de una clinica\obj\Debug\net10.0\Sistema de pacientes de una clinica.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\Proyecto 1. Sistema de pacientes de una clinica\obj\Debug\net10.0\Sistema de pacientes de una clinica.AssemblyInfo.cs
+C:\Users\diego\source\repos\Proyecto 1. Sistema de pacientes de una clinica\obj\Debug\net10.0\Sistema de pacientes de una clinica.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Proyecto 1. Sistema de pacientes de una clinica\obj\Debug\net10.0\Sistema de pacientes de una clinica.sourcelink.json
+C:\Users\diego\source\repos\Proyecto 1. Sistema de pacientes de una clinica\bin\Debug\net10.0\Sistema de pacientes de una clinica.exe
+C:\Users\diego\source\repos\Proyecto 1. Sistema de pacientes de una clinica\bin\Debug\net10.0\Sistema de pacientes de una clinica.deps.json
+C:\Users\diego\source\repos\Proyecto 1. Sistema de pacientes de una clinica\bin\Debug\net10.0\Sistema de pacientes de una clinica.runtimeconfig.json
+C:\Users\diego\source\repos\Proyecto 1. Sistema de pacientes de una clinica\bin\Debug\net10.0\Sistema de pacientes de una clinica.dll
+C:\Users\diego\source\repos\Proyecto 1. Sistema de pacientes de una clinica\bin\Debug\net10.0\Sistema de pacientes de una clinica.pdb
+C:\Users\diego\source\repos\Proyecto 1. Sistema de pacientes de una clinica\obj\Debug\net10.0\Sistema de pacientes de una clinica.dll
+C:\Users\diego\source\repos\Proyecto 1. Sistema de pacientes de una clinica\obj\Debug\net10.0\refint\Sistema de pacientes de una clinica.dll
+C:\Users\diego\source\repos\Proyecto 1. Sistema de pacientes de una clinica\obj\Debug\net10.0\Sistema de pacientes de una clinica.pdb
+C:\Users\diego\source\repos\Proyecto 1. Sistema de pacientes de una clinica\obj\Debug\net10.0\Sistema de pacientes de una clinica.genruntimeconfig.cache
+C:\Users\diego\source\repos\Proyecto 1. Sistema de pacientes de una clinica\obj\Debug\net10.0\ref\Sistema de pacientes de una clinica.dll
+C:\Users\diego\source\repos\Proyecto 1. Sistema de pacientes de una clinica\obj\Debug\net10.0\Sistema .879A4E50.Up2Date
