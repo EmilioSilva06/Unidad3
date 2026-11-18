@@ -1,0 +1,31 @@
+C:\Users\diego\source\repos\Proyecto 3\obj\Debug\net10.0\Proyecto 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\Proyecto 3\obj\Debug\net10.0\Proyecto 3.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\Proyecto 3\obj\Debug\net10.0\Proyecto 3.AssemblyInfo.cs
+C:\Users\diego\source\repos\Proyecto 3\obj\Debug\net10.0\Proyecto 3.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Proyecto 3\bin\Debug\net10.0\Proyecto 3.exe
+C:\Users\diego\source\repos\Proyecto 3\bin\Debug\net10.0\Proyecto 3.deps.json
+C:\Users\diego\source\repos\Proyecto 3\bin\Debug\net10.0\Proyecto 3.runtimeconfig.json
+C:\Users\diego\source\repos\Proyecto 3\bin\Debug\net10.0\Proyecto 3.dll
+C:\Users\diego\source\repos\Proyecto 3\bin\Debug\net10.0\Proyecto 3.pdb
+C:\Users\diego\source\repos\Proyecto 3\obj\Debug\net10.0\Proyecto 3.dll
+C:\Users\diego\source\repos\Proyecto 3\obj\Debug\net10.0\refint\Proyecto 3.dll
+C:\Users\diego\source\repos\Proyecto 3\obj\Debug\net10.0\Proyecto 3.pdb
+C:\Users\diego\source\repos\Proyecto 3\obj\Debug\net10.0\Proyecto 3.genruntimeconfig.cache
+C:\Users\diego\source\repos\Proyecto 3\obj\Debug\net10.0\ref\Proyecto 3.dll
+C:\Users\diego\source\repos\Proyecto 3\obj\Debug\net10.0\Proyecto 3.csproj.Up2Date
+C:\Users\diego\source\repos\Proyecto 3. Llamadas\bin\Debug\net10.0\Proyecto 3.exe
+C:\Users\diego\source\repos\Proyecto 3. Llamadas\bin\Debug\net10.0\Proyecto 3.deps.json
+C:\Users\diego\source\repos\Proyecto 3. Llamadas\bin\Debug\net10.0\Proyecto 3.runtimeconfig.json
+C:\Users\diego\source\repos\Proyecto 3. Llamadas\bin\Debug\net10.0\Proyecto 3.dll
+C:\Users\diego\source\repos\Proyecto 3. Llamadas\bin\Debug\net10.0\Proyecto 3.pdb
+C:\Users\diego\source\repos\Proyecto 3. Llamadas\obj\Debug\net10.0\Proyecto 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\Proyecto 3. Llamadas\obj\Debug\net10.0\Proyecto 3.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\Proyecto 3. Llamadas\obj\Debug\net10.0\Proyecto 3.AssemblyInfo.cs
+C:\Users\diego\source\repos\Proyecto 3. Llamadas\obj\Debug\net10.0\Proyecto 3.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Proyecto 3. Llamadas\obj\Debug\net10.0\Proyecto 3.sourcelink.json
+C:\Users\diego\source\repos\Proyecto 3. Llamadas\obj\Debug\net10.0\Proyecto 3.dll
+C:\Users\diego\source\repos\Proyecto 3. Llamadas\obj\Debug\net10.0\refint\Proyecto 3.dll
+C:\Users\diego\source\repos\Proyecto 3. Llamadas\obj\Debug\net10.0\Proyecto 3.pdb
+C:\Users\diego\source\repos\Proyecto 3. Llamadas\obj\Debug\net10.0\Proyecto 3.genruntimeconfig.cache
+C:\Users\diego\source\repos\Proyecto 3. Llamadas\obj\Debug\net10.0\ref\Proyecto 3.dll
+C:\Users\diego\source\repos\Proyecto 3. Llamadas\obj\Debug\net10.0\Proyecto 3.csproj.Up2Date

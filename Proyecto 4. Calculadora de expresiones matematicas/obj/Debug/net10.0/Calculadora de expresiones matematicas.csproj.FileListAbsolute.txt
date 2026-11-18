@@ -1,0 +1,31 @@
+C:\Users\diego\source\repos\Calculadora de expresiones matematicas\bin\Debug\net10.0\Calculadora de expresiones matematicas.exe
+C:\Users\diego\source\repos\Calculadora de expresiones matematicas\bin\Debug\net10.0\Calculadora de expresiones matematicas.deps.json
+C:\Users\diego\source\repos\Calculadora de expresiones matematicas\bin\Debug\net10.0\Calculadora de expresiones matematicas.runtimeconfig.json
+C:\Users\diego\source\repos\Calculadora de expresiones matematicas\bin\Debug\net10.0\Calculadora de expresiones matematicas.dll
+C:\Users\diego\source\repos\Calculadora de expresiones matematicas\bin\Debug\net10.0\Calculadora de expresiones matematicas.pdb
+C:\Users\diego\source\repos\Calculadora de expresiones matematicas\obj\Debug\net10.0\Calculadora de expresiones matematicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\Calculadora de expresiones matematicas\obj\Debug\net10.0\Calculadora de expresiones matematicas.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\Calculadora de expresiones matematicas\obj\Debug\net10.0\Calculadora de expresiones matematicas.AssemblyInfo.cs
+C:\Users\diego\source\repos\Calculadora de expresiones matematicas\obj\Debug\net10.0\Calculadora de expresiones matematicas.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Calculadora de expresiones matematicas\obj\Debug\net10.0\Calculadora de expresiones matematicas.dll
+C:\Users\diego\source\repos\Calculadora de expresiones matematicas\obj\Debug\net10.0\refint\Calculadora de expresiones matematicas.dll
+C:\Users\diego\source\repos\Calculadora de expresiones matematicas\obj\Debug\net10.0\Calculadora de expresiones matematicas.pdb
+C:\Users\diego\source\repos\Calculadora de expresiones matematicas\obj\Debug\net10.0\Calculadora de expresiones matematicas.genruntimeconfig.cache
+C:\Users\diego\source\repos\Calculadora de expresiones matematicas\obj\Debug\net10.0\ref\Calculadora de expresiones matematicas.dll
+C:\Users\diego\source\repos\Calculadora de expresiones matematicas\obj\Debug\net10.0\Calculad.4170DC85.Up2Date
+C:\Users\diego\source\repos\Proyecto 4. Calculadora de expresiones matematicas\bin\Debug\net10.0\Calculadora de expresiones matematicas.exe
+C:\Users\diego\source\repos\Proyecto 4. Calculadora de expresiones matematicas\bin\Debug\net10.0\Calculadora de expresiones matematicas.deps.json
+C:\Users\diego\source\repos\Proyecto 4. Calculadora de expresiones matematicas\bin\Debug\net10.0\Calculadora de expresiones matematicas.runtimeconfig.json
+C:\Users\diego\source\repos\Proyecto 4. Calculadora de expresiones matematicas\bin\Debug\net10.0\Calculadora de expresiones matematicas.dll
+C:\Users\diego\source\repos\Proyecto 4. Calculadora de expresiones matematicas\bin\Debug\net10.0\Calculadora de expresiones matematicas.pdb
+C:\Users\diego\source\repos\Proyecto 4. Calculadora de expresiones matematicas\obj\Debug\net10.0\Calculadora de expresiones matematicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\Proyecto 4. Calculadora de expresiones matematicas\obj\Debug\net10.0\Calculadora de expresiones matematicas.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\Proyecto 4. Calculadora de expresiones matematicas\obj\Debug\net10.0\Calculadora de expresiones matematicas.AssemblyInfo.cs
+C:\Users\diego\source\repos\Proyecto 4. Calculadora de expresiones matematicas\obj\Debug\net10.0\Calculadora de expresiones matematicas.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Proyecto 4. Calculadora de expresiones matematicas\obj\Debug\net10.0\Calculadora de expresiones matematicas.sourcelink.json
+C:\Users\diego\source\repos\Proyecto 4. Calculadora de expresiones matematicas\obj\Debug\net10.0\Calculadora de expresiones matematicas.dll
+C:\Users\diego\source\repos\Proyecto 4. Calculadora de expresiones matematicas\obj\Debug\net10.0\refint\Calculadora de expresiones matematicas.dll
+C:\Users\diego\source\repos\Proyecto 4. Calculadora de expresiones matematicas\obj\Debug\net10.0\Calculadora de expresiones matematicas.pdb
+C:\Users\diego\source\repos\Proyecto 4. Calculadora de expresiones matematicas\obj\Debug\net10.0\Calculadora de expresiones matematicas.genruntimeconfig.cache
+C:\Users\diego\source\repos\Proyecto 4. Calculadora de expresiones matematicas\obj\Debug\net10.0\ref\Calculadora de expresiones matematicas.dll
+C:\Users\diego\source\repos\Proyecto 4. Calculadora de expresiones matematicas\obj\Debug\net10.0\Calculad.4170DC85.Up2Date
