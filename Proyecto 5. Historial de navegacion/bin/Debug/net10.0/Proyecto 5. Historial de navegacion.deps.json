@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Proyecto 5. Historial de navegacion/1.0.0": {
+        "runtime": {
+          "Proyecto 5. Historial de navegacion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proyecto 5. Historial de navegacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

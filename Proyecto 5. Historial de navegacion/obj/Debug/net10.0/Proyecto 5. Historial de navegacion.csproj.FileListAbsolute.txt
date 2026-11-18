@@ -1,0 +1,15 @@
+C:\Users\diego\source\repos\Proyecto 5. Historial de navegacion\bin\Debug\net10.0\Proyecto 5. Historial de navegacion.exe
+C:\Users\diego\source\repos\Proyecto 5. Historial de navegacion\bin\Debug\net10.0\Proyecto 5. Historial de navegacion.deps.json
+C:\Users\diego\source\repos\Proyecto 5. Historial de navegacion\bin\Debug\net10.0\Proyecto 5. Historial de navegacion.runtimeconfig.json
+C:\Users\diego\source\repos\Proyecto 5. Historial de navegacion\bin\Debug\net10.0\Proyecto 5. Historial de navegacion.dll
+C:\Users\diego\source\repos\Proyecto 5. Historial de navegacion\bin\Debug\net10.0\Proyecto 5. Historial de navegacion.pdb
+C:\Users\diego\source\repos\Proyecto 5. Historial de navegacion\obj\Debug\net10.0\Proyecto 5. Historial de navegacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\Proyecto 5. Historial de navegacion\obj\Debug\net10.0\Proyecto 5. Historial de navegacion.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\Proyecto 5. Historial de navegacion\obj\Debug\net10.0\Proyecto 5. Historial de navegacion.AssemblyInfo.cs
+C:\Users\diego\source\repos\Proyecto 5. Historial de navegacion\obj\Debug\net10.0\Proyecto 5. Historial de navegacion.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Proyecto 5. Historial de navegacion\obj\Debug\net10.0\Proyecto 5. Historial de navegacion.dll
+C:\Users\diego\source\repos\Proyecto 5. Historial de navegacion\obj\Debug\net10.0\refint\Proyecto 5. Historial de navegacion.dll
+C:\Users\diego\source\repos\Proyecto 5. Historial de navegacion\obj\Debug\net10.0\Proyecto 5. Historial de navegacion.pdb
+C:\Users\diego\source\repos\Proyecto 5. Historial de navegacion\obj\Debug\net10.0\Proyecto 5. Historial de navegacion.genruntimeconfig.cache
+C:\Users\diego\source\repos\Proyecto 5. Historial de navegacion\obj\Debug\net10.0\ref\Proyecto 5. Historial de navegacion.dll
+C:\Users\diego\source\repos\Proyecto 5. Historial de navegacion\obj\Debug\net10.0\Proyecto.428442F6.Up2Date
